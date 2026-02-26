@@ -41,7 +41,7 @@ To add or edit news articles, see the [News Content Guide](./content/news/README
 │   ├── resource-grid.tsx       # Resource cards grid
 │   ├── stakeholder-section.tsx # Stakeholder info
 │   └── ui/                     # Shared UI primitives (button, card, etc.)
-├── content/                    # Markdown content (edit here!)
+├── content/                    # 👈 Markdown content (edit here!)
 │   └── news/
 │       ├── README.md           # Guide for adding/editing articles
 │       ├── _template.md        # Copy this to create a new article
@@ -50,7 +50,7 @@ To add or edit news articles, see the [News Content Guide](./content/news/README
 │   ├── news.ts                 # Reads & parses markdown news files
 │   └── utils.ts                # Shared utility functions
 ├── public/                     # Static assets served at /
-│   ├── images/news/            # News article images
+│   ├── images/news/            # 👈 News article images
 │   └── resources/              # Downloadable resource files (PDFs, etc.)
 ├── .github/workflows/
 │   └── deploy.yml              # GitHub Actions deployment workflow
